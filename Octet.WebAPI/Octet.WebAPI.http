@@ -1,0 +1,6 @@
+@Octet.WebAPI_HostAddress = http://localhost:5111
+
+GET {{Octet.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

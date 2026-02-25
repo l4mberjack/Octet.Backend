@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octet.Domain", "Octet.Domain\Octet.Domain.csproj", "{E8066711-EDDB-498A-ABA5-8125841AA248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octet.WebAPI", "Octet.WebAPI\Octet.WebAPI.csproj", "{A6BB2054-2994-4B06-832D-9B1A5B18C588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octet.DTO", "Octet.DTO\Octet.DTO.csproj", "{36B2222E-DD0F-4545-B539-75F8C6716797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octet.Services", "Octet.Services\Octet.Services.csproj", "{FE32D5D4-FCF3-4971-95D1-2805538A2E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8066711-EDDB-498A-ABA5-8125841AA248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8066711-EDDB-498A-ABA5-8125841AA248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8066711-EDDB-498A-ABA5-8125841AA248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8066711-EDDB-498A-ABA5-8125841AA248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BB2054-2994-4B06-832D-9B1A5B18C588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BB2054-2994-4B06-832D-9B1A5B18C588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BB2054-2994-4B06-832D-9B1A5B18C588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BB2054-2994-4B06-832D-9B1A5B18C588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B2222E-DD0F-4545-B539-75F8C6716797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B2222E-DD0F-4545-B539-75F8C6716797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B2222E-DD0F-4545-B539-75F8C6716797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B2222E-DD0F-4545-B539-75F8C6716797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE32D5D4-FCF3-4971-95D1-2805538A2E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE32D5D4-FCF3-4971-95D1-2805538A2E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE32D5D4-FCF3-4971-95D1-2805538A2E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE32D5D4-FCF3-4971-95D1-2805538A2E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
